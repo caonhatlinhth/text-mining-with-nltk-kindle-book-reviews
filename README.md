@@ -23,9 +23,11 @@ The "Analyzing Kindle User Reviews" project aims to gain insights from the revie
 - Recommendations: Providing recommendations based on the analysis to improve the Kindle devices or user experience.
 
 **Usage**
+
 Feel free to explore the code, datasets, and reports provided in this repository. The code can serve as a reference for implementing text mining techniques, performing sentiment analysis, theme extraction, and topic modeling in Python. The reports provide detailed insights into the project methodology, analysis, and findings.
 
 **Dependencies**
+
 The project requires the following Python packages:
 - NLTK: For natural language processing tasks and text preprocessing.
 - scikit-learn: For sentiment analysis and machine learning models.
